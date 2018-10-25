@@ -1,5 +1,5 @@
 Map of the River Valley
-![map](MapMain.png)
+![map](images/Mapmain.png)
 
 Map of the languages of the region.
-![map](LanguageMap.png)
+![map](images/LanguageMap.png)
