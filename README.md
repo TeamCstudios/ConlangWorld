@@ -3,4 +3,4 @@
 
 
 ### [Appendix A: Maps](A.md)
-### Appendix B: Terms
+### [Appendix B: Terms](B.md)
