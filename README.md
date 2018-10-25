@@ -3,3 +3,4 @@
 
 
 ### Appendix A: Maps
+### Appendix B: Terms
