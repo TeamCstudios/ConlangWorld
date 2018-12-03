@@ -17,4 +17,4 @@ The calendar is called the Vötgil calendar. There are 15 months represented by 
 There are 15 Vötgil hours in one day, and 30 days in one month. The months are divided in 3 tendays. There are 1.28 Earth hours in 1 Vötgil hour.
 
 #### Example date
-The Epic of Birekhomustano starts on 12/40/1CAĈ. That's the second day of the second tenday of Eðe in the 8852nd year of the calendar.
+The Epic of Birekhomustano starts on 12/4/1CAĈ. That's the second day of the second tenday of Eðe in the 8852nd year of the calendar.
